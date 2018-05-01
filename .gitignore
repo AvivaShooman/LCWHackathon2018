@@ -4,3 +4,6 @@ src/Task_3/
 src/Task_6/
 src/Task_9/
 *.zip
+.settings/
+*.classpath
+*.project
